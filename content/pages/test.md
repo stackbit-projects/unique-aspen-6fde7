@@ -2,7 +2,7 @@
 title: About us
 sections:
   - type: HeroSection
-    title: About Us test
+    title: About Us test test
     subtitle: Who We Are
     text: >
       Contrary to popular belief, Lorem Ipsum is not simply random text. It has
